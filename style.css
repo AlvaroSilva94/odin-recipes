@@ -5,6 +5,7 @@
 
 #title_{
     border-radius: 25px;
+    align-items: center;
     border: 2px solid black;
     padding: 10px;
     text-align: center;
@@ -19,6 +20,7 @@
 #bigpig {
     display: grid;
     grid-row: auto;
+    align-items: center;
     padding-left: 190px;
     margin-left: auto;
     margin-right: auto;
